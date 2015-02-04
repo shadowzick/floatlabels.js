@@ -1,7 +1,7 @@
-floatlabels.js
+A Fork of floatlabels.js
 ==============
 
-Follows the famous Float Label Pattern. Built on jQuery.
+Made some simple modifications for floatlabels.js that fits my needs.
 
-Demo / Documentation:  
+Main Repo:  
 http://clubdesign.github.io/floatlabels.js/
